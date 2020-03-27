@@ -1,8 +1,8 @@
 Esta es la historia de Freddy Vega
 
-Freddy Vega tiene 32 años y nació en Colombia
-
-Mañana nos enfocaremos en su vida laboral
+Freddy Vega tiene 32 años y nació en Colombia-----CAMBIO PARA MERGE NOMBRE---
+OMIERDA ESTE CAMBIO IBA EN CABECERAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Mañana nos enfocaremos en su vida laboral ------cambio en master-------
 
 CABECERA CONFICTIVA
 
