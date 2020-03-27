@@ -4,4 +4,4 @@ Freddy Vega tiene 32 años y nació en Colombia-----CAMBIO PARA MERGE NOMBRE---
 
 Mañana nos enfocaremos en su vida laboral ------cambio en master-------
 
-MASTER CONFLICTIVO
+MASTER Y CABECERA HICERON LAS PACES
